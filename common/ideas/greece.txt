@@ -1210,7 +1210,7 @@ theorist = {
 			allowed = {
 				original_tag = GRE
 			}
-			available = { has_completed_focus = GRE_fund_the_navy}
+			available = { has_completed_focus = GRE_fund_the_navy }
 			research_bonus = {
 				naval_equipment = 0.10
 			}
@@ -1221,6 +1221,7 @@ theorist = {
 		allowed = {
 				original_tag = GRE
 			}
+			available = { has_completed_focus = GRE_fund_the_navy }
 			research_bonus = {
 				naval_equipment = 0.10
 			}
